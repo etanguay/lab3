@@ -5,6 +5,6 @@
         <body>
             <h6>Le site de Etienne Tanguay ========> </h6>
             <a href="login.php">Login</a>
-            <a href="secret.php">Page secrete</a>
+            <a href="secret.php">Page secretes</a>
         </body>
 </html>
